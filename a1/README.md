@@ -3,29 +3,27 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS 4368 - Advanced Web Application Development
+# LIS4377 Artificial Intelligence Applications
 
-## Julia Sveen
+## Julia Sveen, BSIT
 
 ### Assignment 1 Requirements:
 
-*Sub-Heading:*
+*Four Parts:*
 
 1. Distributed version control with Git & BitBucket
-2. Development installation
-3. Chapter questions 
+2. Development installations
+3. Questions
+4. Bitbucket repo (main) link:
 
 #### README.md file should include the following items:
 
-* Screenshot of running java Hello
-* Screenshot of running localhost:9999
-* Screenshot of a1/index.jsp
+* Screenshot of a1_paycheck calculator application running
+* Links to A1 .ipynb files:
+    - {paycheck_calculator.ipynb}{a1_paycheck_calculator/paycheck_calculator.ipynb "a1_paycheck_calculator Notebook"}
+    - {run_py_files_in_jupyter_lab.ipynb}{run_py_files_in_jupyter_lab.ipynb run_py_files_in_jupyterlab Notebook"}
 * Git commands with brief descriptions
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
 > #### Git commands w/short descriptions:
 
 1. git init - create an empty git repo or reinitialize existing one
@@ -38,23 +36,25 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of Tomcat running http://localhost*:
+*Screenshot of a1_tip_calculator running (IDLE)*:
 
-![AMPPS Installation Screenshot](img/tomcat.png)
+![Screenshot of a1_tip_calculator running (IDLE)](img/paycheck_IDLE.png)
 
-*Screenshot of running java Hello*:
+*Screenshot of Paycheck Calculator (Visual Studio Code)*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![Screenshot of Paycheck Calculator (Visual Studio Code)](img/paycheck_vscode.png)
 
-*Screenshot of a1/index.jsp*:
+*Screenshot of Paycheck Calculator (Jupyter Notebook)*:
 
-![a1/index.jsp Screenshot](img/a1_index.png)
+![Screenshot of Paycheck Calculator (Jupyter Notebook)](img/paycheck_jupyter.png)
 
-#### Tutorial Links:
+*Screenshot of run_py_files_in_jupyter_lab.ipynb*:
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
+![Screenshot of run_py_files_in_jupyter_lab.ipynb](img/run_py.png)
 
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+*Screenshot of magic_commands.ipynb*:
+
+![Screenshot of magic_commands.ipynb](img/magic_cmd1.png)
+![Screenshot of magic_commands.ipynb](img/magic_cmd2.png)
+
 
