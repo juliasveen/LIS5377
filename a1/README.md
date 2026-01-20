@@ -20,8 +20,9 @@
 
 * Screenshot of a1_paycheck calculator application running
 * Links to A1 .ipynb files:
-    - {paycheck_calculator.ipynb}{a1_paycheck_calculator/paycheck_calculator.ipynb "a1_paycheck_calculator Notebook"}
-    - {run_py_files_in_jupyter_lab.ipynb}{run_py_files_in_jupyter_lab.ipynb run_py_files_in_jupyterlab Notebook"}
+    - [a1_paycheck_calculator.ipynb](a1_paycheck_calculator.ipynb)
+    - [run_py_files_in_jupyter_lab.ipynb](run_py_files_in_jupyter_lab.ipynb)
+    - [magic_commands.ipynb](magic_commands.ipynb)
 * Git commands with brief descriptions
 
 > #### Git commands w/short descriptions:
