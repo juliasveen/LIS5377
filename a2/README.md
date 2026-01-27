@@ -22,6 +22,9 @@
 * Screenshot of conda environments
 * Link to exported conda environment package list file, [testenv.yml](testenv.yml)
 * Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
+* Screenshot of skillsets
+* Link to skillset files:
+    1. [ss1_lists/main.py](skill_sets/ss1_lists/main.py) & [ss1_lists/functions.py](skill_sets/ss1_lists/functions.py)
 
 #### Assignment Screenshots:
 
@@ -35,15 +38,15 @@
 
 ##### Skillsets Screenshots:
 
-![Screenshot of Paycheck Calculator (Jupyter Notebook)](img/paycheck_jupyter.png)
+*Skillset 1: Lists*
 
-*Screenshot of run_py_files_in_jupyter_lab.ipynb*:
+![Screenshot of Skillset 1](img/ss1.png)
 
-![Screenshot of run_py_files_in_jupyter_lab.ipynb](img/run_py.png)
+*Skillset 2: Tuples*
 
-*Screenshot of magic_commands.ipynb*:
+![Screenshot of Skillset 2](img/ss2.png)
 
-![Screenshot of magic_commands.ipynb](img/magic_cmd1.png)
-![Screenshot of magic_commands.ipynb](img/magic_cmd2.png)
+*Skillset 3: Sets*
 
-
+![Screenshot of Skillset 3](img/ss3.png)
+![Screenshot of Skillset 2](img/ss3_2.png)
