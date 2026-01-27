@@ -15,7 +15,7 @@
 2. Using "Separation of Concerns" design principles
 3. Examining, sorting, shaping, and analyzing data sets
 4. Provide screenshots of completed app
-5. Provide screenshots of completed Python skill sets
+5. Provide screenshots of completed Python skillsets
 
 #### README.md file should include the following items:
 
@@ -24,7 +24,7 @@
 * Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
 * Screenshot of skillsets
 * Link to skillset files:
-    1. [ss1_lists/main.py](skill_sets/ss1_lists/main.py) & [ss1_lists/functions.py](skill_sets/ss1_lists/functions.py)
+    1. Skillset 1 - Lists [main.py](skill_sets/ss1_lists/main.py) & [functions.py](skill_sets/ss1_lists/functions.py)
 
 #### Assignment Screenshots:
 
