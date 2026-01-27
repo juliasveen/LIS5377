@@ -19,12 +19,10 @@
 
 #### README.md file should include the following items:
 
-* Screenshot of a1_paycheck calculator application running
-* Links to A1 .ipynb files:
-    - [a1_paycheck_calculator.ipynb](a1_paycheck_calculator.ipynb)
-    - [run_py_files_in_jupyter_lab.ipynb](run_py_files_in_jupyter_lab.ipynb)
-    - [magic_commands.ipynb](magic_commands.ipynb)
-* Git commands with brief descriptions
+* Screenshot of conda environments
+* Link to exported conda environment package list file, [testenv.yml](testenv.yml)
+* Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
+
 
 #### Assignment Screenshots:
 
