@@ -24,9 +24,9 @@
 * Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
 * Screenshot of skillsets
 * Link to skillset files:
-    1. Skillset 1 - Lists [main.py](../skill_sets/ss1_lists/main.py) & [functions.py](../skill_sets/ss1_lists/functions.py)
-    2. Skillset 2 - Tuples [main.py](../skill_sets/ss2_tuples/main.py) & [functions.py](../skill_sets/ss2_tuples/functions.py)
-    3. Skillset 3 - Sets [main.py](../skill_sets/ss3_sets/main.py) & [functions.py](../skill_sets/ss3_sets/functions.py)
+    1. Skillset 1 - Lists: [main.py](../skill_sets/ss1_lists/main.py) & [functions.py](../skill_sets/ss1_lists/functions.py)
+    2. Skillset 2 - Tuples: [main.py](../skill_sets/ss2_tuples/main.py) & [functions.py](../skill_sets/ss2_tuples/functions.py)
+    3. Skillset 3 - Sets: [main.py](../skill_sets/ss3_sets/main.py) & [functions.py](../skill_sets/ss3_sets/functions.py)
 
 #### Assignment Screenshots:
 
