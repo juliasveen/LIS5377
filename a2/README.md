@@ -36,7 +36,7 @@
 
 ![Screenshot of my_env_versions.py](img/my_env_versions_jupyter.png)
 
-##### Skillsets Screenshots:
+##### Skillset Screenshots:
 
 *Skillset 1: Lists*
 
