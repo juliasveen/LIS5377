@@ -3,64 +3,52 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4368 [Advanced Web Application Development]
+# LIS4377 Artificial Intelligence Applications
 
-## Julia Sveen
+## Julia Sveen, BSIT
 
-### Assignment #2 Requirements:
+### Assignment 2 Requirements:
 
-*Sub-Heading:*
+*Five Parts:*
 
-1. Using mySQL Workbench through AMPPS
-2. Creating ebookshop database using mySQL Workbench
-3. Writing a Database Servlet Deploying Servlet using @WebServlet
-4. Compiling servlet files
+1. Create conda environments
+2. Using "Separation of Concerns" design principles
+3. Examining, sorting, shaping, and analyzing data sets
+4. Provide screenshots of completed app
+5. Provide screenshots of completed Python skill sets
 
 #### README.md file should include the following items:
 
-* Assessment links
-* querybook.html SS
-* Query results SS
-* a2/index.jsp SS
-* Skillset 1, 2, 3 SS
-
-### Assessment links
-* http://localhost:9999/hello
-* http://localhost:9999/hello/index.html
-* http://localhost:9999/hello/sayhello
-* http://localhost:9999/hello/querybook.html
-* http://localhost:9999/lis4368/a2/index.jsp
-
+* Screenshot of a1_paycheck calculator application running
+* Links to A1 .ipynb files:
+    - [a1_paycheck_calculator.ipynb](a1_paycheck_calculator.ipynb)
+    - [run_py_files_in_jupyter_lab.ipynb](run_py_files_in_jupyter_lab.ipynb)
+    - [magic_commands.ipynb](magic_commands.ipynb)
+* Git commands with brief descriptions
 
 #### Assignment Screenshots:
 
-*Screenshot of http://localhost:9999/hello & http://localhost:9999/hello/index.html*:
+*Python Environment List*:
 
-![http://localhost:9999/hello & http://localhost:9999/hello/index.html Screenshot](img/helloindex.png)
+![Screenshot of Python Environment List](img/conda_env_list.png)
 
-*Screenshot of http://localhost:9999/hello/sayhello*:
+*my_env_versions.py*:
 
-![http://localhost:9999/hello/sayhello Screenshot](img/sayhello.png)
+![Screenshot of my_env_versions.py](img/my_env_versions_jupyter.png)
 
-*Screenshot of http://localhost:9999/hello/querybook.html*:
+*Screenshot of Paycheck Calculator (Jupyter Notebook)*:
 
-![http://localhost:9999/hello/querybook.html Screenshot](img/querybook.png)
+##### Skillsets Screenshots:
 
-*Screenshot of Query results*:
+![Screenshot of Paycheck Calculator (Jupyter Notebook)](img/paycheck_jupyter.png)
 
-![Query results Screenshot](img/queryresults.png)
+*Screenshot of run_py_files_in_jupyter_lab.ipynb*:
 
-*Screenshot of a2 index.jsp*:
-![a2 index.jsp Screenshot](img/a2index.png)
+![Screenshot of run_py_files_in_jupyter_lab.ipynb](img/run_py.png)
 
-*Screenshot of skillset 1*:
-<br>
-![a2 index.jsp Screenshot](img/ss1.png)
+*Screenshot of magic_commands.ipynb*:
 
-*Screenshot of skillset 2*:
-![a2 index.jsp Screenshot](img/ss2.png)
+![Screenshot of magic_commands.ipynb](img/magic_cmd1.png)
+![Screenshot of magic_commands.ipynb](img/magic_cmd2.png)
 
-*Screenshot of skillset 3*:
-<br>
-![a2 index.jsp Screenshot](img/ss3.png)
 
