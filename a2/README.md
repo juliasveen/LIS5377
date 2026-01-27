@@ -22,8 +22,6 @@
 * Screenshot of conda environments
 * Link to exported conda environment package list file, [testenv.yml](testenv.yml)
 * Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
-# omg why is this not working
-
 
 #### Assignment Screenshots:
 

@@ -22,7 +22,6 @@
     - Examining, sorting, shaping, and analyzing data sets
     - Provide screenshots of completed app
     - Provide screenshots of completed Python skill sets
-    - test test
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - TBD
