@@ -33,8 +33,6 @@
 
 ![Screenshot of my_env_versions.py](img/my_env_versions_jupyter.png)
 
-*Screenshot of Paycheck Calculator (Jupyter Notebook)*:
-
 ##### Skillsets Screenshots:
 
 ![Screenshot of Paycheck Calculator (Jupyter Notebook)](img/paycheck_jupyter.png)
