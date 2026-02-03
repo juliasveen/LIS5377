@@ -52,4 +52,21 @@
 *Skillset 3: Sets*
 
 ![Screenshot of Skillset 3](img/ss3.png)
-![Screenshot of Skillset 2](img/ss3_2.png)
+![Screenshot of Skillset 3](img/ss3_2.png)
+
+##### a2 Screenshots:
+
+*a2
+
+![Screenshot](img/a2_1.png)
+![Screenshot](img/a2_2.png)
+![Screenshot](img/a2_3.png)
+![Screenshot](img/a2_4.png)
+![Screenshot](img/a2_5.png)
+![Screenshot](img/a2_6.png)
+![Screenshot](img/a2_7.png)
+![Screenshot](img/a2_8.png)
+![Screenshot](img/a2_9.png)
+![Screenshot](img/a2_10.png)
+![Screenshot](img/a2_11.png)
+![Screenshot](img/a2_12.png)
