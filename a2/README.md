@@ -37,8 +37,7 @@
 
 *my_env_versions.py*:
 
-![Screenshot of my_env_versions.py](img/my_env.png)
-![Screenshot my_env_versions.py](img/my_env2.png)
+![Screenshot of my_env_versions.py](img/my_env_versions.py.png)
 
 ##### Skillset Screenshots:
 
