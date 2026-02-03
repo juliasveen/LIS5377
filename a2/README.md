@@ -22,6 +22,7 @@
 * Screenshot of conda environments
 * Link to exported conda environment package list file, [testenv.yml](testenv.yml)
 * Create Python program displaying environment packages, [my_env_versions.py](my_env_versions.py)
+* Screenshot of app, [a2.ipynb](a2.ipynb)g
 * Screenshot of skillsets
 * Link to skillset files:
     1. Skillset 1 - Lists: [main.py](../skill_sets/ss1_lists/main.py) & [functions.py](../skill_sets/ss1_lists/functions.py)
