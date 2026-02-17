@@ -20,7 +20,7 @@
 
 #### README.md file should include the following items:
 
-* a3.ipynb
+* [a3.ipynb](a3.ipynb)
 * skillsets:
     1. Skillset 4 - Lists: [main.py](../skill_sets/ss1_lists/main.py) & [functions.py](../skill_sets/ss1_lists/functions.py)
     2. Skillset 5 - Tuples: [main.py](../skill_sets/ss2_tuples/main.py) & [functions.py](../skill_sets/ss2_tuples/functions.py)
