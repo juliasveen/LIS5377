@@ -3,57 +3,45 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4368 Advanced Web Application Development
+# LIS5377 Artificial Intelligence Applications
 
-## Julia Sveen
+## Julia Sveen, BSIT
 
-### Assignment #3 Requirements:
+### Assignment 3 Requirements:
 
-*Deliverables*
+*Three Parts:*
 
-1. Entity Relationship Diagram (ERD)
-2. Include data (at least 10 records in each table)
-3. Links
-    * docs folder: a3.mwb, and a3.sql
-    * img folder: a3.png (export a3.mwb file as a3.png)
-    * README.md (must display a3.png ERD) 
+1. Jupyter Notebook mp4 file
+2. Upload A3 .ipynb file and create link in README.md
+    Note: *Before* uploading .ipynb file, *be sure* to do the following actions from Kernal menu:
+        a. Restart & Clear Output
+        b. Restart & Run All
+3. Skillsets 4, 5, 6
 
 #### README.md file should include the following items:
 
-* Screenshot of a3 ERD that links to the image
+* a3.ipynb
+* skillsets:
+    1. Skillset 4 - Lists: [main.py](../skill_sets/ss1_lists/main.py) & [functions.py](../skill_sets/ss1_lists/functions.py)
+    2. Skillset 5 - Tuples: [main.py](../skill_sets/ss2_tuples/main.py) & [functions.py](../skill_sets/ss2_tuples/functions.py)
+    3. Skillset 6 - Sets: [main.py](../skill_sets/ss3_sets/main.py) & [functions.py](../skill_sets/ss3_sets/functions.py)
 
-#### Assignment Screenshots:
+#### Assignment Video:
 
-*Screenshot of A3 ERD*:
+*a3.ipynb*:
 
-![Screenshot of A3 ERD](img/a3_erd.png)
+![a3.ipynb](a3.mp4)
 
+##### Skillset Screenshots:
 
-*Screenshot of Tables*:
+*Skillset 4:*
 
-![Screenshot of pet table](img/sql_pet.png)
+![Screenshot of Skillset 4](img/ss1.png)
 
-![Screenshot of pet store table](img/sql_petstore.png)
+*Skillset 5*
 
-![Screenshot of customer table](img/sql_customer.png)
+![Screenshot of Skillset 5](img/ss2.png)
 
+*Skillset 6*
 
-*A3 docs: a3.mwb and a3.sql*:
-
-[a3 mwb file](docs/a3.mwb)
-
-[a3 sql file](docs/a3.sql)
-
-
-*Screenshot of a3 index.jsp*
-
-![a3 index.jsp](img/a3_index.png)
-
-
-*Screenshot of skillsets 4, 5, 6*:
-
-![ss4](img/SS4.png)
-
-![ss5](img/SS5.png)
-
-![ss6](img/SS6.png)
+![Screenshot of Skillset 6](img/ss3.png)

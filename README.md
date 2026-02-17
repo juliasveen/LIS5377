@@ -24,9 +24,10 @@
     - Provide screenshots of completed Python skill sets
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
-    - TBD
-    - TBD
+    - Use conda test environment
+    - Use "separation of concerns" design principles
+    - Provide mp4 video of completed notebook
+    - Provide screenshots of completed Python skill sets
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD

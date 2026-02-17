@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4377 Artificial Intelligence Applications
+# LIS5377 Artificial Intelligence Applications
 
 ## Julia Sveen, BSIT
 
