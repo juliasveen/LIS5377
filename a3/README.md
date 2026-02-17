@@ -30,7 +30,7 @@
 
 *a3.ipynb*:
 
-![a3.ipynb](a3.mp4)
+![a3.ipynb](a3.gif)
 
 ##### Skillset Screenshots:
 
