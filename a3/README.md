@@ -36,7 +36,7 @@
 
 *Skillset 4:*
 
-![Screenshot of Skillset 4](img/ss1.png)
+![Screenshot of Skillset 4](img/test.png)
 
 *Skillset 5*
 
