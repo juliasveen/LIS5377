@@ -22,9 +22,9 @@
 
 * [a3.ipynb](a3.ipynb)
 * skillsets:
-    1. Skillset 4 - Lists: [main.py](../skill_sets/ss1_lists/main.py) & [functions.py](../skill_sets/ss1_lists/functions.py)
-    2. Skillset 5 - Tuples: [main.py](../skill_sets/ss2_tuples/main.py) & [functions.py](../skill_sets/ss2_tuples/functions.py)
-    3. Skillset 6 - Sets: [main.py](../skill_sets/ss3_sets/main.py) & [functions.py](../skill_sets/ss3_sets/functions.py)
+    1. Skillset 4 - Lists: [main.py](../skill_sets/ss4_dicts/main.py) & [functions.py](../skill_sets/ss4_dicts/functions.py)
+    2. Skillset 5 - Tuples: [main.py](../skill_sets/ss5_pd1/main.py) & [functions.py](../skill_sets/ss5_pd1/functions.py)
+    3. Skillset 6 - Sets: [main.py](../skill_sets/ss6_pd2/main.py) & [functions.py](../skill_sets/ss6_pd2/functions.py)
 
 #### Assignment Video:
 
@@ -36,12 +36,14 @@
 
 *Skillset 4:*
 
-![Screenshot of Skillset 4](img/test.png)
+![Screenshot of Skillset 4](img/ss4.png)
 
 *Skillset 5*
 
-![Screenshot of Skillset 5](img/ss2.png)
+![Screenshot of Skillset 5](img/ss5_1.png)![Screenshot of Skillset 5](img/ss5_2.png)![Screenshot of Skillset 5](img/ss5_3.png)
+![Screenshot of Skillset 5](img/ss5_4.png)![Screenshot of Skillset 5](img/ss5_5.png)![Screenshot of Skillset 5](img/ss5_6.png)
+![Screenshot of Skillset 5](img/ss5_7.png)
 
 *Skillset 6*
 
-![Screenshot of Skillset 6](img/ss3.png)
+![Screenshot of Skillset 6](img/ss6.png)

@@ -10,4 +10,5 @@ def main():
     f.delete_element(my_dictionary)
     f.delete_dictionary(my_dictionary)
 
-if __name__ == "__main__":    main()
+if __name__ == "__main__":
+    main()
