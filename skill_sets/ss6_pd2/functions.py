@@ -5,6 +5,7 @@ df = pd.read_csv('titanic.csv')
 
 def get_requirements():
     """function prints program requirements"""
+    print("Pandas DataFrames/Series\n")
     print("Program Requirements:")
     print("Developer: Julia Sveen, BSIT") # Updated to your name
     print("1. Working with pandas DataFrames and Series data structures, for tabular data handling.")
