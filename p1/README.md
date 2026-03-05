@@ -29,7 +29,7 @@
     3. [Skillset 9 - Guessing Game (with data validation)](../skill_sets/ss9)
 * [Graduate student report](docs/grad_report1.docx)
 
-#### Assignment Video:
+#### Assignment Gifs:
 
 *p1.ipynb*:
 
@@ -49,7 +49,7 @@
 *Skillset 8*
 
 ![Screenshot of Skillset 8](img/ss8_2%20(1).png)
-![Screenshot of Skillset 8](img/ss8_2%20(1).png)
+![Screenshot of Skillset 8](img/ss8_2%20(2).png)
 
 *Skillset 9*
 
