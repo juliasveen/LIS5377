@@ -21,7 +21,7 @@
 
 #### README.md file should include the following items:
 
-* [p1.ipynb](p1_ipynb)
+* [p1.ipynb](p1.ipynb)
 * [prediction_simple_jupyter_notebook.ipynb](prediction_simple_jupyter_notebook.ipynb)
 * Skillsets:
     1. [Skillset 7 - Pseudo-Random Numbers List (with data validation)](../skill_sets/ss7)
@@ -48,9 +48,9 @@
 
 *Skillset 8*
 
-![Screenshot of Skillset 8](img/ss8_1.png)
-![Screenshot of Skillset 8](img/ss8_2.png)
+![Screenshot of Skillset 8](img/ss8_2%20(1).png)
+![Screenshot of Skillset 8](img/ss8_2%20(1).png)
 
 *Skillset 9*
 
-![Screenshot of Skillset 9](img/ss9.png)
+![Screenshot of Skillset 9](img/ss9%20(2).png)
