@@ -27,7 +27,7 @@
     1. [Skillset 7 - Pseudo-Random Numbers List (with data validation)](../skill_sets/ss7)
     2. [Skillset 8 - Interest Calculator (with data validation)](../skill_sets/ss8)
     3. [Skillset 9 - Guessing Game (with data validation)](../skill_sets/ss9)
-* [Graduate student report](docs/AI%20Applications%20P1%20Report.pdf)
+* [Graduate student report](docs)
 
 #### Assignment Gifs:
 
@@ -54,3 +54,11 @@
 *Skillset 9*
 
 ![Screenshot of Skillset 9](img/ss9%20(2).png)
+
+##### Report Screenshots:
+
+*Report*
+
+![Screenshot of Report](img/P1_report1.png)
+![Screenshot of Report](img/P1_report2.png)
+![Screenshot of Report](img/P1_reportREF.png)
