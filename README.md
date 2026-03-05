@@ -40,9 +40,10 @@
     - TBD
     
 6. [P1 README.md](p1/README.md "My P1 README.MD file")
-    - TBD
-    - TBD
-    - TBD
+    - Implement Simple Linear Regression for predictive modeling
+    - Develop modular Python skillsets with robust data and range validation
+    - Document "Separation of Concerns" design via integrated Jupyter Notebooks and Git
+    - Analyze real-world benefits and challenges of AI through researched project report
 
 7. [P2 README.md](p2/README.md "My P2 README.MD file")
     - TBD
