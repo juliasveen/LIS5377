@@ -3,70 +3,54 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4368 Advanced Web Application Development
+# LIS5377 Artificial Intelligence Applications
 
-## Julia Sveen
+## Julia Sveen, BSIT
 
 ### Project 1 Requirements:
 
-*Deliverables*
+*4 Parts:*
 
-1. Research of Validation Codes
-2. <a href="https://bitbucket.org/jds21k/lis4368/src/master/p1/index.jsp" target="_blank">index.jsp</a>
-3. LIS4368 Portal (Main/Splash Page) 
-4. Skillsets 7, 8, 9
-
+1. p1.ipynb file
+2. prediction_simple_jupyter_notebook.ipynb file
+    Note: *Before* uploading .ipynb file, *be sure* to do the following actions from Kernal menu:
+        a. Restart & Clear Output
+        b. Restart & Run All
+3. Skillsets 7, 8, 9
+4. Graduate student report
 
 #### README.md file should include the following items:
 
-* Research of Validation Codes
-* Screenshot of LIS4368 Portal (Main/Splash Page)
-* Screenshot of Failed Validation
-* Screenshot of Passed Validation
-* Screenshots of Skill Sets 7, 8, 9
+* [p1.ipynb](p1_ipynb)
+* [prediction_simple_jupyter_notebook.ipynb](prediction_simple_jupyter_notebook.ipynb)
+* Skillsets:
+    1. [Skillset 7 - Pseudo-Random Numbers List (with data validation)](../skill_sets/ss7)
+    2. [Skillset 8 - Interest Calculator (with data validation)](../skill_sets/ss8)
+    3. [Skillset 9 - Guessing Game (with data validation)](../skill_sets/ss9)
+* [Graduate student report](docs/grad_report1.docx)
 
-#### Research of Validation Codes
-* valid: 'fa fa-check': When the input field passes validation, it adds a green checkmark (✓) using Font Awesome’s "fa-check" icon.
-* invalid: 'fa fa-times': When the input field fails validation, it adds a red "X" (✗) using Font Awesome’s "fa-times" icon.
-* validating: 'fa fa-refresh': While the field is being validated, it adds a spinning loading icon using "fa-refresh" (which can indicate a validation process in progress).
+#### Assignment Video:
 
-#### Assignment Screenshots:
+*p1.ipynb*:
 
-*Screenshot of LIS4368 Portal (Main/Splash Page)*:
+![p1.ipynb](img/p1.gif)
 
-![Screenshot of LIS4368 Portal (Main/Splash Page)](img/lis4368_splash.png)
+*prediction_simple_jupyter_notebook.ipynb*:
 
+![prediction_simple_jupyter_notebook.ipynb](img/predictive.gif)
 
-*Screenshot of Failed Validation*:
+##### Skillset Screenshots:
 
-![Screenshot of Failed Validation](img/failed_val.png)
+*Skillset 7:*
 
+![Screenshot of Skillset 7](img/ss7_1.png)
+![Screenshot of Skillset 7](img/ss7_2.png)
 
-*Screenshot of Passed Validation*:
+*Skillset 8*
 
-![Screenshot of Passed Validation](img/passed_val.png)
+![Screenshot of Skillset 8](img/ss8_1.png)
+![Screenshot of Skillset 8](img/ss8_2.png)
 
+*Skillset 9*
 
-*Screenshot of Skillset 7*:
-
-![Screenshot of Skillset 7](img/SS7.png)
-
-
-*Screenshots of Skillset 8*:
-
-![Screenshots of Skillset 8](img/SS8_1.png)
-
-![Screenshots of Skillset 8](img/SS8_2.png)
-
-![Screenshots of Skillset 8](img/SS8_3.png)
-
-![Screenshots of Skillset 8](img/SS8_4.png)
-
-![Screenshots of Skillset 8](img/SS8_5.png)
-
-![Screenshots of Skillset 8](img/SS8_6.png)
-
-
-*Screenshot of Skillset 9*:
-
-![Screenshot of Skillset 9](img/SS9.png)
+![Screenshot of Skillset 9](img/ss9.png)
