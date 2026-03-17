@@ -1,10 +1,10 @@
 
 
-# LIS4377 Artificial Intelligence Applications
+# LIS5377 Artificial Intelligence Applications
 
-## Julia Sveen, BSIT
+## Julia Sveen
 
-### LIS4377 Requirements:
+### LIS5377 Requirements:
 
 *Course Work Links:*
 
