@@ -1,0 +1,10 @@
+pipelines:
+  default:
+    - step:
+        name: Mirror to GitHub
+        clone:
+          depth: full
+        script:
+          - git remote add github https://juliasveen:${GITHUB_TOKEN}@github.com/juliasveen/LIS4368.git
+          - git fetch --unshallow || true
+          - git push --force github HEAD:master
