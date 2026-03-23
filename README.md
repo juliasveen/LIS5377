@@ -30,9 +30,10 @@
     - Provide screenshots of completed Python skill sets
     
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
-    - TBD
-    - TBD
+    - Use "separation of concerns" design principles
+    - Build file system navigation, contact list, and shopping cart Python skill sets
+    - Create and run A4 Jupyter Notebook with AI applications content
+    - Provide gif recording and screenshots of completed notebook and skill sets
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD

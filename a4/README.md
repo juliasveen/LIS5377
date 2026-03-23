@@ -3,47 +3,49 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS4368 Advanced Web Application Development
+# LIS5377 Artificial Intelligence Applications
 
 ## Julia Sveen
 
-### Assignment #4 Requirements:
+### Assignment 4 Requirements:
 
-*Deliverables*
+*Three Parts:*
 
-1. Establish server-side validation
-2. Compile servlet
-3. Skillsets 10-12
-4. Canvas questions
+1. Jupyter Notebook gif file
+2. Upload A4 .ipynb file and create link in README.md
+    Note: *Before* uploading .ipynb file, *be sure* to do the following actions from Kernal menu:
+        a. Restart & Clear Output
+        b. Restart & Run All
+3. Skillsets 10, 11, 12
 
 #### README.md file should include the following items:
 
-* Screenshot of failed validation
-* Screenshot of passed validation
-* Screenshots of SS 10, 11 & 12
+* [a4.ipynb](a4.ipynb)
+* skillsets:
+    1. Skillset 10 - Simple Shopping Cart: [ss10](../skill_sets/ss10)
+    2. Skillset 11 - Lists and Dictionaries: [ss11](../skill_sets/ss11)
+    3. Skillset 12 - File Information: [ss12](../skill_sets/ss12)
 
-#### Assignment Screenshots:
+#### Assignment 4:
 
-*Screenshot of failed validation*:
+*a4.ipynb*:
 
-![Screenshot of failed validation](img/A4_failed.png)
+![a4.ipynb](img/a4.gif)
 
+##### Skillset Screenshots:
 
-*Screenshot of passed validation*:
+*Skillset 10:*
 
-![Screenshot of passed validation](img/A4_passed.png)
+![Screenshot of Skillset 10](img/ss10.png)
 
+*Skillset 11*
 
-*Screenshots of skillset 10*:
+![Screenshot of Skillset 11](img/ss11_1.png)
+![Screenshot of Skillset 11](img/ss11_2.png)
 
-![ss10](img/SS10_1.png)
+*Skillset 12*
 
-![ss10](img/SS10_2.png)
+![Screenshot of Skillset 12](img/ss12_1.png)
+![Screenshot of Skillset 12](img/ss12_2.png)
+![Screenshot of Skillset 12](img/ss12_3.png)
 
-*Screenshot of skillset 11*:
-
-![ss11](img/SS11.png)
-
-*Screenshot of skillset 12*:
-
-![ss12](img/SS12.png)
