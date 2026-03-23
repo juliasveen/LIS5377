@@ -21,10 +21,10 @@
 #### README.md file should include the following items:
 
 * [a4.ipynb](a4.ipynb)
-* skillsets:
-    1. Skillset 10 - Simple Shopping Cart: [ss10](../skill_sets/ss10)
-    2. Skillset 11 - Lists and Dictionaries: [ss11](../skill_sets/ss11)
-    3. Skillset 12 - File Information: [ss12](../skill_sets/ss12)
+* Skillsets:
+    1. [Skillset 10 - Simple Shopping Cart](../skill_sets/ss10)
+    2. [Skillset 11 - Lists and Dictionaries](../skill_sets/ss11)
+    3. [Skillset 12 - File Information](../skill_sets/ss12)
 
 #### Assignment 4:
 
